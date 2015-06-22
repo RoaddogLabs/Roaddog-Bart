@@ -1,0 +1,7 @@
+# sources that aren't to be tracked
+
+*.dwg
+*.fff
+*.factory
+*.gcode
+*.fabbproject
