@@ -20,8 +20,8 @@ Rods
 Bearings
 
 11 x LM8UU linear bearings
- 2 x 624ZZ bearings
- 1 x 608ZZ bearing
+ 3 x 624ZZ bearings
+
 
 Printed Parts
 
@@ -29,6 +29,7 @@ Printed Parts
 1 x Y endstop bracket
 
 1 x X carriage
+1 x x endstop block
 1 x X end motor
 1 x X end idler
 1 x X idler
@@ -37,16 +38,36 @@ Printed Parts
 1 x extruder idler
 1 x hot end mounting clip
 
-Hardware
+1 x z endstop bracket
+
+Hardware  (TBD not for production)
 
 1 x M7 hobbed drive gear, filament drive gear
 
-2 x 3/16" ID poly tubing, 1" long each, coupler tubing
+2 x 3/16" ID poly tubing, 1" long each, coupler tubing (replace with nophead couplers)
 
 50 x 6-32 square nuts, frame
 20 x 6-32 x 5/8" pan head machine screws, frame
 24 x 6-32 x 1/2" pan head machine screws, frame
 
-10 x M3 x 8 mm shcs, motor mounts
+20 x M3 x 8 mm shcs, motor mounts, endstop screws
 2 x  M3 x 12 mm shcs, motor/Z endstop bracket mounting
+
+6-32 nylon stand offs, snap fit (make sure snap mount fits iduino hole)
+
+
+assembly parts counts
+
+bed frame
+6 x m3 x 12 shcs with 6 m3 washer and nylocs
+frame feet
+4 x m3 x 12 shcs with nylocs
+y belt holder
+2 x m3 x 25 shcs with washers and nylocs
+2  x 6-32 -5/8" pan phil with sq nuts
+y idler
+m4 x 25 
+
+
+
 
