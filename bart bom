@@ -1,4 +1,5 @@
 THIS DOCUMENT IS INCOMPLETE DO NOT USE FOR PRODUCTION
+FASTENER TOTALS NEED AUDIT
 
 Bill of Materials
 Roaddog Labs Ltd Bart i3 Rework
@@ -13,7 +14,7 @@ Rods
 
 2 x M5-.8 x 300 mm threaded rod, Z axis lead screws
 
-2 x M8 x 317 mm smooth rod, (320 mm will work also)
+2 x M8 x 320 mm smooth rod, (320 mm will work also)
 
 4 x M8 x 370 mm smooth rod 
 
@@ -27,6 +28,7 @@ Printed Parts
 
 3 x Y clips
 1 x Y endstop bracket
+1 x Y motor bracket
 
 1 x X carriage
 1 x x endstop block
@@ -37,36 +39,73 @@ Printed Parts
 1 x extruder body 
 1 x extruder idler
 1 x hot end mounting clip
+1 x fan duct
 
 1 x z endstop bracket
 
-Hardware  (TBD not for production)
+Misc Hardware
 
 1 x M7 hobbed drive gear, filament drive gear
+2 x GT2 pulley, 20 teeth, 5 mm diameter mounting hole
+2 meters GT2 belt
 
-2 x 3/16" ID poly tubing, 1" long each, coupler tubing (replace with nophead couplers)
+4 x rubber feet
 
-50 x 6-32 square nuts, frame
-20 x 6-32 x 5/8" pan head machine screws, frame
-24 x 6-32 x 1/2" pan head machine screws, frame
+2 x 3/16" ID poly tubing, 1" long each, coupler tubing 
 
-20 x M3 x 8 mm shcs, motor mounts, endstop screws
-2 x  M3 x 12 mm shcs, motor/Z endstop bracket mounting
+1 x 214 x 200 borosilicate glass print bed
 
-6-32 nylon stand offs, snap fit (make sure snap mount fits iduino hole)
+4 x small binder clips for glass bed
+
+4 bed springs (get final specs)
+2 extruder springs (get final specs)
+
+Fasteners  (totals rounded up from final prototype, shcs count not exact)
+
+40 x 6-32 square nuts, frame
+40 x 6-32 x 5/8" pan head machine screws, frame
+4 x 6-32 x 1/2" pan head machine screws, frame
+4 x #6 flat washer, frame
+
+20 x M3 x 10 mm shcs, motor mounts, endstop screws
+20 x  M3 x 12 mm shcs, motor/Z endstop bracket mounting, feet mounting
+20 x  M3 x 14 mm shcs,
+10 x  M3 x 16 mm shcs,
+10 x  M3 x 25 mm shcs,
+6 x  M3 x 30 mm shcs, Y belt, Z endstop probe screw
+2 x  M3 x 50 mm shcs,
 
 
-assembly parts counts
+20 x  M3 hex nuts
+20 x  M3 nyloc nuts
 
-bed frame
-6 x m3 x 12 shcs with 6 m3 washer and nylocs
-frame feet
-4 x m3 x 12 shcs with nylocs
-y belt holder
-2 x m3 x 25 shcs with washers and nylocs
-2  x 6-32 -5/8" pan phil with sq nuts
-y idler
-m4 x 25 
+4 x  M4 x 20 shcs extruder mount, extruder idler
+1 x  M4 x 30 shcs Y idler bearing
+
+4 x  M4 hex nuts
+8 x  M4 flat washers
+1 x  M4 nyloc nut
+
+
+
+
+4 x 6-32 nylon stand offs, snap fit (make sure snap mount fits iduino hole)
+
+Electronics
+
+1 x RAMPS with Arduino compatible board
+5 x Stepstick A4988 drivers
+
+1 x 40x40x10 12 volt axial fan
+
+5 x NEMA 17 stepper motors, recommend 76 oz/in holding torque
+
+1 x 350 watt, 12 volt PSU
+
+1 x MK2A heated bed
+
+
+
 
 
 
