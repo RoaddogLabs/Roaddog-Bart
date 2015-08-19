@@ -1,6 +1,3 @@
-THIS DOCUMENT IS INCOMPLETE DO NOT USE FOR PRODUCTION
-FASTENER TOTALS NEED AUDIT
-
 Bill of Materials
 Roaddog Labs Ltd Bart i3 Rework
 file released under Creative Commons
@@ -68,28 +65,28 @@ Fasteners  (totals rounded up from final prototype, shcs count not exact)
 4 x #6 flat washer, frame
 
 20 x M3 x 10 mm shcs, motor mounts, endstop screws
-20 x  M3 x 12 mm shcs, motor/Z endstop bracket mounting, feet mounting
-20 x  M3 x 14 mm shcs,
-10 x  M3 x 16 mm shcs,
-10 x  M3 x 25 mm shcs,
-6 x  M3 x 30 mm shcs, Y belt, Z endstop probe screw
-2 x  M3 x 50 mm shcs,
+25 x  M3 x 12 mm shcs, motor/Z endstop bracket mounting, feet mounting
+05 x  M3 x 14 mm shcs,
+05 x  M3 x 16 mm shcs,
+08 x  M3 x 25 mm shcs,
+06 x  M3 x 30 mm shcs, Y belt, Z endstop probe screw
+02 x  M3 x 50 mm shcs,
 
 
-20 x  M3 hex nuts
-20 x  M3 nyloc nuts
+55 x  M3 hex nuts
+12 x  M3 nyloc nuts
 
-4 x  M4 x 20 shcs extruder mount, extruder idler
-1 x  M4 x 30 shcs Y idler bearing
+07 x  M4 x 20 shcs extruder mount, extruder idler
+01 x  M4 x 30 shcs Y idler bearing
 
-4 x  M4 hex nuts
-8 x  M4 flat washers
-1 x  M4 nyloc nut
-
-
+06 x  M4 hex nuts
+10 x  M4 flat washers
+03 x  M4 nyloc nut
 
 
-4 x 6-32 nylon stand offs, snap fit (make sure snap mount fits iduino hole)
+
+
+4 x nylon spacers (snap fit does not fit iduino/Arduino pcb mounting hole)
 
 Electronics
 
