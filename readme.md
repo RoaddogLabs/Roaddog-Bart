@@ -1,14 +1,3 @@
-**************  Firmware Update Nov 19 2015  **********
-
-Firmware is was upgraded to Marlin 1.0.2-1
-Build against Arduino IDE 1.6.6
-Use U8glib 1.13.1 for display support, it's going to give some warnings but will compile
-
-
-
-
-
-
 This is a Roaddog Bart i3 Rework 3D printer. This machine is a mashup
 implemented from several designs including original designs.  Original
 designs from Roaddog Labs Ltd are released per the Open Source Hardware
